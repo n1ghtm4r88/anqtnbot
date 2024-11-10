@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <data name="CommandNotFound" xml:space="preserve">
+        
+        <value>*🔎  Команда не найдена*</value>
+    </data>
+    <data name="OnlyTextMessage" xml:space="preserve">
+        
+        <value>*⚠️  Отправьте только текстовое сообщение*</value>
+    </data>
+    <data name="MessageIsTooLong" xml:space="preserve">
+        
+        <value>*⚠️  Максимальная длина сообщения 4000 символов*</value>
+    </data>
+    <data name="LinkToRecipient" xml:space="preserve">
+        
+        <value>*⚠️  Перейдите по ссылке получателя, чтобы отправить ему анонимный вопрос*</value>
+    </data>
+    <data name="NewAnswer" xml:space="preserve">
+        
+        <value>*✉️  Новый анонимный ответ:*&#xA;&#xA;</value>
+    </data>
+    <data name="NewQuestion" xml:space="preserve">
+        
+        <value>*✉️  Новый анонимный вопрос:*&#xA;&#xA;</value>
+    </data>
+    <data name="Respond" xml:space="preserve">
+        
+        <value>Ответить</value>
+    </data>
+    <data name="Ban" xml:space="preserve">
+        
+        <value>Заблокировать</value>
+    </data>
+    <data name="AnswerSent" xml:space="preserve">
+        
+        <value>*📤  Ваш анонимный ответ отправлен*</value>
+    </data>
+    <data name="QuestionSent" xml:space="preserve">
+        
+        <value>*📤  Ваш анонимный вопрос отправлен*</value>
+    </data>
+    <data name="Cancel" xml:space="preserve">
+        
+        <value>Отменить</value>
+    </data>
+    <data name="Unban" xml:space="preserve">
+        
+        <value>Разблокировать</value>
+    </data>
+    <data name="ShareLink" xml:space="preserve">
+        
+        <value>Поделиться ссылкой</value>
+    </data>
+    <data name="YourLink" xml:space="preserve">
+        
+        <value>*🔗  Ваша ссылка для анонимных вопросов*&#xA;&#xA;> `t.me/anqtnbot?start={id}`</value>
+    </data>
+    <data name="CannotUseOwnLink" xml:space="preserve">
+        
+        <value>*❌  Нельзя использовать собственную ссылку*</value>
+    </data>
+    <data name="IsBanned" xml:space="preserve">
+        
+        <value>*🚫  Пользователь заблокировал вас*</value>
+    </data>
+    <data name="SubmitYourAnswer" xml:space="preserve">
+        
+        <value>*✍️  Отправьте ваш анонимный ответ*</value>
+    </data>
+    <data name="SubmitYourQuestion" xml:space="preserve">
+        
+        <value>*✍️  Отправьте ваш анонимный вопрос*</value>
+    </data>
+</root>

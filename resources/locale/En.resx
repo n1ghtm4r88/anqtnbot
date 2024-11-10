@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<root>
+    <data name="CommandNotFound" xml:space="preserve">
+        
+        <value>*🔎  Command not found*</value>
+    </data>
+    <data name="OnlyTextMessage" xml:space="preserve">
+        
+        <value>*⚠️  Send a text message only*</value>
+    </data>
+    <data name="MessageIsTooLong" xml:space="preserve">
+        
+        <value>*⚠️  Maximum message length 4000 characters*</value>
+    </data>
+    <data name="LinkToRecipient" xml:space="preserve">
+        
+        <value>*⚠️  Click on the recipient's link to send them an anonymous question*</value>
+    </data>
+    <data name="NewAnswer" xml:space="preserve">
+        
+        <value>*✉️  New anonymous response:*&#xA;&#xA;</value>
+    </data>
+    <data name="NewQuestion" xml:space="preserve">
+        
+        <value>*✉️  New anonymous question:*&#xA;&#xA;</value>
+    </data>
+    <data name="Respond" xml:space="preserve">
+        
+        <value>Respond</value>
+    </data>
+    <data name="Ban" xml:space="preserve">
+        
+        <value>Ban</value>
+    </data>
+    <data name="AnswerSent" xml:space="preserve">
+        
+        <value>*📤  Your anonymous reply has been sent*</value>
+    </data>
+    <data name="QuestionSent" xml:space="preserve">
+        
+        <value>*📤  Your anonymous question has been sent*</value>
+    </data>
+    <data name="Cancel" xml:space="preserve">
+        
+        <value>Cancel</value>
+    </data>
+    <data name="Unban" xml:space="preserve">
+        
+        <value>Unban</value>
+    </data>
+    <data name="ShareLink" xml:space="preserve">
+        
+        <value>Share this link</value>
+    </data>
+    <data name="YourLink" xml:space="preserve">
+        
+        <value>*🔗  Your link for anonymous questions*&#xA;&#xA;> `t.me/anqtnbot?start={id}`</value>
+    </data>
+    <data name="CannotUseOwnLink" xml:space="preserve">
+        
+        <value>*❌  You can't use your own link*</value>
+    </data>
+    <data name="IsBanned" xml:space="preserve">
+        
+        <value>*🚫  A user has blocked you*</value>
+    </data>
+    <data name="SubmitYourAnswer" xml:space="preserve">
+        
+        <value>*✍️  Send your anonymous response*</value>
+    </data>
+    <data name="SubmitYourQuestion" xml:space="preserve">
+        
+        <value>*✍️  Submit your anonymous question*</value>
+    </data>
+</root>

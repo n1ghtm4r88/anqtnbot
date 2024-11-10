@@ -1,0 +1,10 @@
+{
+  "_comment1": "https://dev.mysql.com/doc/connector-net/en/connector-net-connections-string.html",
+  "ConnectionString": "server=127.0.0.1;uid=root;pwd=12345",
+  
+  "_comment2": "https://core.telegram.org/bots/tutorial#obtain-your-bot-token",
+  "Token": "",
+  
+  "_comment3": "https://generate-random.org/encryption-key-generator?bytes=24",
+  "EncryptionKey": ""
+}
